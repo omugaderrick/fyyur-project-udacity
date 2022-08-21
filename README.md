@@ -31,7 +31,7 @@ You can download and install the dependencies mentioned above using `pip` as:
 pip install virtualenv
 pip install SQLAlchemy
 pip install postgres
-pip install Flask
+pip install postgres
 pip install Flask-Migrate
 ```
 > **Note** - If we do not mention the specific version of a package, then the default latest stable package will be installed. 
